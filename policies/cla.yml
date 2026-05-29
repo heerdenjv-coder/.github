@@ -64,6 +64,7 @@ configuration:
          - embeddedbot
          - engelbot
          - flinchbot
+         - ghcp4a-bot[bot]
          - github-actions[bot]
          - goodboyrobot
          - greenkeeper[bot]
